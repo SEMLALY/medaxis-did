@@ -6,7 +6,7 @@
   "id": "http://localhost:8091/.well-known/did.json",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkhMmm7TWW911Wa8bmjm1aa7P9FQ5xVyCViGz6UmBtZvWK",
+      "publicKeyMultibase": "z6MkjLLbJPQEHfJyp8e8dAeSYBot5fXgpd1ZYBjykiMWYRSJ",
       "controller": "http://localhost:8091/.well-known/did.json",
       "id": "http://localhost:8091/.well-known/did.json#cQBiNaYRz_8MjeqBJi9rYljOSjxcYC438NzZirCdXQc",
       "type": "Ed25519VerificationKey2020",
